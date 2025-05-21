@@ -3,5 +3,6 @@
   "VERSION": "1.2.3",
   "FEATURE_FLAG": true,
   "Apple": false,
-  "Orange": false
+  "Orange": false,
+  "Kiwi": false
 }
