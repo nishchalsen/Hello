@@ -1,5 +1,6 @@
 {
   "ENV": "nice",
   "VERSION": "1.2.3",
-  "FEATURE_FLAG": true
+  "FEATURE_FLAG": true,
+  "Apple": false
 }
